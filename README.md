@@ -35,7 +35,7 @@ This is a Laravel-based web application designed to showcase my ability to devel
 
 ## Personal Reflection:
 Building this Laravel project was an excellent opportunity for me to deepen my understanding of modern web development practices, including RESTful API integration, real-time communication, and Laravel's Eloquent ORM. I faced challenges related to managing database migrations and user authentication, but I successfully overcame them by researching solutions and experimenting with different approaches. This project has significantly enhanced my problem-solving and technical documentation skills.
-Collaboration:
+## Collaboration:
 This project was a collaboration between multiple developers. I worked alongside talented team members who contributed to various aspects of the application. I’d like to acknowledge their efforts in making this project a success.
 
 Contact Me:
