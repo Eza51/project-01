@@ -1,0 +1,502 @@
+/*Layout*/
+@media only screen and (max-width:1199px) {
+    .header-right ul li.sign a{
+        margin-left: 10px;
+    }
+    .search-form {
+        padding: 200px 0;
+    }
+}
+@media only screen and (min-width: 991px) and (max-width: 1080px) {
+    .business-carousel.owl-carousel .owl-nav .owl-prev,
+    .blog-carousel.owl-carousel .owl-nav .owl-prev {
+        margin-left: 0;
+    }
+
+    .business-carousel.owl-carousel .owl-nav .owl-next,
+    .blog-carousel.owl-carousel .owl-nav .owl-next {
+        margin-right: 0;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 840px) {
+    .business-carousel.owl-carousel .owl-nav .owl-prev,
+    .popular-carousel.owl-carousel .owl-nav .owl-prev,
+    .blog-carousel.owl-carousel .owl-nav .owl-prev {
+        margin-left: 0;
+    }
+
+    .business-carousel.owl-carousel .owl-nav .owl-next,
+    .popular-carousel.owl-carousel .owl-nav .owl-next,
+    .blog-carousel.owl-carousel .owl-nav .owl-next {
+        margin-right: 0;
+    }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 660px) {
+
+    .business-carousel.owl-carousel .owl-nav .owl-prev,
+    .popular-carousel.owl-carousel .owl-nav .owl-prev,
+    .blog-carousel.owl-carousel .owl-nav .owl-prev {
+        margin-left: 0;
+    }
+
+    .business-carousel.owl-carousel .owl-nav .owl-next,
+    .popular-carousel.owl-carousel .owl-nav .owl-next,
+    .blog-carousel.owl-carousel .owl-nav .owl-next {
+        margin-right: 0;
+    }
+}
+
+@media only screen and (max-width: 840px) {
+    .popular-carousel .owl-dots {
+        display: none;
+    }
+
+    .popular-carousel.owl-carousel .owl-nav .owl-prev,
+    .popular-carousel.owl-carousel .owl-nav .owl-next {
+        top: 100%;
+        margin-top: 15px;
+        margin-left: 0;
+    }
+
+    .popular-carousel.owl-carousel .owl-nav .owl-prev {
+        left: 15%;
+    }
+
+    .popular-carousel.owl-carousel .owl-nav .owl-next {
+        right: 15%;
+        margin-right: 0;
+    }
+}
+
+@media only screen and (min-width: 991px) and (max-width: 1200px) {
+    .blog-text ul li {
+        margin-right: 15px;
+    }
+
+    .blog-image {
+        height: 190px;
+    }
+
+    .recent-review-item {
+        padding: 18px;
+    }
+
+    .rec-rev-photo {
+        width: 85px;
+        margin-right: 15px;
+    }
+
+    .rec-rev-content ul li {
+        font-size: 13px;
+        margin-right: 10px;
+    }
+
+    .rec-rev-content ul li i {
+        width: 17px;
+        height: 17px;
+        line-height: 17px;
+    }
+
+    .rec-rev-content p {
+        font-size: 15px;
+    }
+
+    .footer-widget span a {
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+    }
+
+    .babyshop-right li:first-child a,
+    .babyshop-right li a {
+        padding: 14px 18px;
+    }
+
+    .sidebar-widget .sidebar-tab li a {
+        padding: 15px 11px;
+    }
+
+    .about-headline h1 {
+        font-size: 38px;
+    }
+
+    .social-login a {
+        font-size: 13px;
+        padding: 12px 10px;
+    }
+
+    .profile-name h2 {
+        font-size: 34px;
+    }
+
+    .label h3 {
+        font-size: 20px;
+    }
+}
+
+@media only screen and (max-width:991px) {
+    .menu-area {
+        padding-top: 30px;
+    }
+    .logo {
+        text-align: center;
+    }
+    .header-page .logo {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    .search-form {
+        padding: 160px 0;
+    }
+    
+    ul.nav-menu li {
+        margin: 0;
+        padding: inherit;
+    }
+
+    ul.nav-menu li a {
+        font-size: 14px;
+    }
+
+    ul.nav-menu li ul {
+        position: relative;
+        width: 100%;
+    }
+
+    ul.nav-menu li ul > li {
+        display: block;
+    }
+
+    ul.nav-menu li ul > li > a {
+        background: transparent;
+        color: #fff;
+    }
+
+    .footer-widget p {
+        margin-right: 0;
+    }
+
+    .logo-page {
+        margin-bottom: 10px;
+    }
+
+    .register-page {
+        text-align: center;
+    }
+
+    .babyshop-right {
+        text-align: left;
+    }
+    .header-right {
+        text-align: center;
+        margin-top: 15px;
+    }
+    #strickymenu.sticky{
+        position: relative;
+    }
+
+    .job-page .search-button .btn{
+        width: 60%;
+    }
+    .job-page .search-button .btn.btn1{
+        width: 39%;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .about-headline h1 {
+        font-size: 36px;
+    }
+
+    .profile-photo {
+        width: 150px;
+        height: 150px;
+        top: -15px;
+    }
+
+    .profile-name h2 {
+        font-size: 34px;
+    }
+
+    .label h3 {
+        font-size: 20px;
+    }
+}
+
+@media only screen and (max-width:767px) {
+    .menu-area {
+        text-align: center;
+    }
+    .search-form {
+        padding: 120px 0;
+    }
+    .main-menu {
+        margin-top: 15px;
+    }
+
+    .headline h2 {
+        float: none;
+    }
+
+    .headline a {
+        float: none;
+        display: block;
+        margin-top: 10px;
+    }
+
+    .bar-menu-left,
+    .bar-menu-right {
+        text-align: center;
+    }
+
+    .review-gallery-replied .review-details-item:before {
+        top: -196px;
+    }
+
+    .about-headline h1 {
+        font-size: 34px;
+    }
+
+    .profile-header.pt_95 {
+        padding-top: 60px !important;
+    }
+
+    .profile-photo {
+        position: relative;
+        top: 0;
+        width: 150px;
+        height: 150px;
+        margin-bottom: 12px;
+    }
+
+    .profile-name h2 {
+        font-size: 32px;
+    }
+
+    .label h3 {
+        font-size: 20px;
+    }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 768px) {
+    .recent-review-item {
+        padding: 18px;
+    }
+
+    .rec-rev-photo {
+        width: 85px;
+        margin-right: 15px;
+    }
+
+    .rec-rev-content ul li {
+        font-size: 13px;
+        margin-right: 10px;
+    }
+
+    .rec-rev-content ul li i {
+        width: 17px;
+        height: 17px;
+        line-height: 17px;
+    }
+
+    .rec-rev-content p {
+        font-size: 15px;
+    }
+
+    .mision-photo {
+        height: 260px;
+    }
+}
+
+@media only screen and (min-width: 500px) and (max-width: 768px) {
+    .blog-image {
+        height: 280px;
+    }
+}
+
+@media only screen and (max-width:576px) {
+    .search-form {
+        padding: 120px 0;
+    }
+
+    .business-carousel.owl-carousel .owl-nav .owl-prev,
+    .business-carousel.owl-carousel .owl-nav .owl-next {
+        top: 100%;
+        margin-top: 15px;
+        margin-left: 0;
+    }
+
+    .business-carousel.owl-carousel .owl-nav .owl-prev {
+        left: 15%;
+    }
+
+    .business-carousel.owl-carousel .owl-nav .owl-next {
+        right: 15%;
+        margin-right: 0;
+    }
+
+    .blog-carousel.owl-carousel .owl-nav .owl-prev,
+    .blog-carousel.owl-carousel .owl-nav .owl-next {
+        top: 100%;
+        margin-top: 15px;
+        margin-left: 0;
+    }
+
+    .blog-carousel.owl-carousel .owl-nav .owl-prev {
+        left: 15%;
+    }
+
+    .blog-carousel.owl-carousel .owl-nav .owl-next {
+        right: 15%;
+        margin-right: 0;
+    }
+
+    .recent-review-item {
+        text-align: center;
+        display: block;
+        width: 100%;
+    }
+
+    .rec-rev-photo {
+        float: none;
+        display: block;
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 15px;
+    }
+
+    .rec-rev-photo img {
+        max-width: 100px;
+    }
+
+    .rec-rev-content {
+        display: block;
+        width: 100%;
+    }
+
+    .footer-menu {
+        text-align: center;
+    }
+
+    .footer-menu li {
+        margin-right: 20px;
+    }
+
+    .footer-menu li::before {
+        left: -12px;
+    }
+
+    .babyshop-left h2 {
+        font-size: 30px;
+    }
+
+    .babyshop-right li {
+        display: block;
+        margin-top: 10px;
+    }
+
+    .ov-content-headline {
+        float: none;
+        margin-bottom: 12px;
+    }
+
+    .ov-content-text {
+        margin-left: 0;
+    }
+
+    .ov-link {
+        margin-left: 0;
+    }
+
+    .mision-photo {
+        height: 245px;
+    }
+
+    .about-headline h1 {
+        font-size: 36px;
+    }
+
+    .company-info h2 {
+        font-size: 28px;
+    }
+    .pop-servicearea .col-lg-3{
+        padding: 0 15px;
+    }
+}
+
+@media only screen and (max-width:500px) {
+    .blog-image {
+        height: 250px;
+    }
+
+    .mision-photo {
+        height: 230px;
+    }
+}
+
+@media only screen and (max-width:450px) {
+    .rec-rev-content ul li {
+        display: block;
+        margin-bottom: 5px;
+    }
+
+    .footer-menu li {
+        display: block;
+        margin-right: 0px;
+        margin-top: 5px;
+    }
+
+    .footer-menu li:before {
+        display: none;
+    }
+
+    .xs_ml_80 {
+        margin-left: 30px !important;
+    }
+
+    .xs_ml_40 {
+        margin-left: 15px !important;
+    }
+
+    .review-details-item .col-6 {
+        max-width: 100% !important;
+        -webkit-flex: 0 0 100%;
+        flex: 0 0 100%;
+    }
+
+    .mision-photo {
+        height: 210px;
+    }
+
+    .comment-area .ml_70 {
+        margin-left: 30px !important;
+    }
+}
+
+@media only screen and (max-width:360px) {
+    .search-form {
+        padding: 80px 0;
+    }
+
+    .blog-image {
+        height: 180px;
+    }
+
+    .blog-text ul li {
+        margin-right: 15px;
+    }
+
+    .mision-photo {
+        height: 190px;
+    }
+
+    .sidebar-widget .sidebar-tab li a {
+        padding: 15px 11px;
+    }
+
+    .about-headline h1 {
+        font-size: 30px;
+    }
+}
